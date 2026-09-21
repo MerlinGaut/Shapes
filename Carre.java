@@ -2,7 +2,7 @@ public class Carre {
     private int cote;
     private String color;
     private double[] center = new double[2];
-
+// carre modification pour commit
     public Carre(int c, double x, double y, String co){
         cote = c;
         color = co;
